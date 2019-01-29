@@ -1,0 +1,56 @@
+/*Left Column*/
+
+h3 {
+    color: #F7D4BC;
+    font-size: 2em;
+}
+
+h5 {
+    color: #F7D4BC;
+}
+
+#left-col{
+    background-color: #846B8A;
+}
+
+#left-col {
+    padding: 0;
+    width: 24em;
+    height: 100vh;
+}
+
+.dp {
+    border-radius: 50%
+}
+
+#left-col {
+    text-align: center;
+}
+
+/*Right Column*/
+h1{
+    color:#846B8A;
+}
+
+h2 {
+    color: #C98BB9; 
+}
+
+h6 {
+    color: #CFA5B4;
+}
+
+#edu {
+    margin-top: 2.5em;
+}
+
+#right-col {
+    background-color: #FAE3E3;
+}
+
+
+#right-col h3 {
+    font-size: 2em;
+    color: coral;
+}
+
